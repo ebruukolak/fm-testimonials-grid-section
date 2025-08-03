@@ -44,7 +44,6 @@ body {
 .cards {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
   padding: 2em;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
   border-radius: 0.5em;
@@ -55,16 +54,19 @@ body {
   align-items: center;
   justify-content: flex-start;
   padding: 1em;
+   flex-shrink: 0;
 }
 
 .cards__img {
   object-fit: contain;
   border-radius: 500px;
   margin-right: 1.5em;
+  flex-shrink: 0;
 }
 
 .cards-content {
   padding: 1em;
+   flex: 1;
 }
 
 .cards__profile-name,
