@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click here!](https://github.com/ebruukolak/fm-testimonials-grid-section)
-- Live Site URL: [Click here!](https://your-live-site-url.com)
+- Live Site URL: [Click here!](https://testimonials-grid-section-ebrnl.netlify.app/)
 
 ## My process
 
